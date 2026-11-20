@@ -1,0 +1,10 @@
+cognee
+litellm
+requests
+beautifulsoup4
+pydantic
+python-dotenv
+streamlit
+apscheduler
+sqlalchemy
+pandas
